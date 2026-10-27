@@ -1,5 +1,5 @@
 /* Service worker — cache shell + audio for installable offline-ish PWA */
-var CACHE_NAME = 'piran-tour-v1';
+var CACHE_NAME = 'piran-tour-v2-map11';
 
 var SHELL = [
   './',
@@ -17,16 +17,17 @@ var SHELL = [
 ];
 
 var AUDIO = [
-  './audio/01-start-sarajevo84.mp3',
-  './audio/02-akvarij-piran.mp3',
-  './audio/03-muzej-skoljk.mp3',
-  './audio/04-morigenos-delfini.mp3',
-  './audio/05-tartinijev-trg.mp3',
-  './audio/06-cerkev-sv-jurija.mp3',
-  './audio/07-mestno-obzidje.mp3',
-  './audio/08-prvomajski-trg.mp3',
-  './audio/09-punta-promenada.mp3',
-  './audio/10-mestna-kavarna.mp3',
+  './audio/01-trg-bratstva.mp3',
+  './audio/02-obzidje.mp3',
+  './audio/03-sv-jurij.mp3',
+  './audio/04-punta-svetilnik.mp3',
+  './audio/05-prvomajski.mp3',
+  './audio/06-zidovski-trg.mp3',
+  './audio/07-obzidna-vrata.mp3',
+  './audio/08-tartinijev-trg.mp3',
+  './audio/09-cankarjevo.mp3',
+  './audio/10-trg-sv-franciska.mp3',
+  './audio/11-ulica-svobode.mp3',
 ];
 
 self.addEventListener('install', function (event) {
