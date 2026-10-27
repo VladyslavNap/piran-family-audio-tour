@@ -1,0 +1,92 @@
+[
+  {
+    "order": 1,
+    "id": "sarajevo",
+    "name": "Čevabdžinica Sarajevo '84",
+    "lat": 45.525337,
+    "lon": 13.567762,
+    "audio": "audio/01-start-sarajevo84.mp3",
+    "radius_m": 50
+  },
+  {
+    "order": 2,
+    "id": "aquarium",
+    "name": "Akvarij Piran",
+    "lat": 45.52795,
+    "lon": 13.56719,
+    "audio": "audio/02-akvarij-piran.mp3",
+    "radius_m": 50
+  },
+  {
+    "order": 3,
+    "id": "shells",
+    "name": "Muzej školjk in polžev",
+    "lat": 45.528,
+    "lon": 13.56827,
+    "audio": "audio/03-muzej-skoljk.mp3",
+    "radius_m": 50
+  },
+  {
+    "order": 4,
+    "id": "morigenos",
+    "name": "Morigenos — center o delfinih",
+    "lat": 45.52848,
+    "lon": 13.56835,
+    "audio": "audio/04-morigenos-delfini.mp3",
+    "radius_m": 50
+  },
+  {
+    "order": 5,
+    "id": "tartini",
+    "name": "Tartinijev trg & Benečanka",
+    "lat": 45.52853,
+    "lon": 13.56842,
+    "audio": "audio/05-tartinijev-trg.mp3",
+    "radius_m": 50
+  },
+  {
+    "order": 6,
+    "id": "walls",
+    "name": "Mestno obzidje",
+    "lat": 45.52794,
+    "lon": 13.57203,
+    "audio": "audio/07-mestno-obzidje.mp3",
+    "radius_m": 50
+  },
+  {
+    "order": 7,
+    "id": "stgeorge",
+    "name": "Cerkev sv. Jurija",
+    "lat": 45.52971,
+    "lon": 13.56824,
+    "audio": "audio/06-cerkev-sv-jurija.mp3",
+    "radius_m": 50
+  },
+  {
+    "order": 8,
+    "id": "prvomajski",
+    "name": "Prvomajski trg",
+    "lat": 45.529389,
+    "lon": 13.565959,
+    "audio": "audio/08-prvomajski-trg.mp3",
+    "radius_m": 50
+  },
+  {
+    "order": 9,
+    "id": "punta",
+    "name": "Morska promenada / Punta",
+    "lat": 45.53021,
+    "lon": 13.5632,
+    "audio": "audio/09-punta-promenada.mp3",
+    "radius_m": 50
+  },
+  {
+    "order": 10,
+    "id": "kavarna",
+    "name": "Mestna Kavarna Piran",
+    "lat": 45.52856,
+    "lon": 13.56855,
+    "audio": "audio/10-mestna-kavarna.mp3",
+    "radius_m": 50
+  }
+]
